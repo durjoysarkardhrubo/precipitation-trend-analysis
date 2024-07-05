@@ -58,12 +58,13 @@ The script will print the following information to the console:
 - Sen's Slope Estimation result
 - A plot of the precipitation data with a trend line
 
+## Contact
+
+For any queries, please contact [durjoy2003026@gmail.com](mailto:durjoy2003026@gmail.com).
+
 ## Contributing
 
 If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-
-
----
 
 Feel free to modify the content as needed.
